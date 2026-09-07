@@ -118,27 +118,6 @@ Interactive filters allow users to explore the data by:
 - Category
 - Shipping Type
 
-### 🔄 Project Workflow
-
-```text
-Raw Customer Data
-        ↓
-Python Data Cleaning
-        ↓
-Feature Engineering
-        ↓
-PostgreSQL Database
-        ↓
-SQL Business Analysis
-        ↓
-Power BI Dashboard
-        ↓
-Business Insights
-        ↓
-Recommendations
-
----
-
 ## 4. Skills
 
 ### Data Analysis
