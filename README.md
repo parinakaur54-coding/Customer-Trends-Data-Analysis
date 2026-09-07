@@ -161,6 +161,7 @@ Interactive filters allow users to explore the data by:
 - Business Problem Solving
 - Data-Driven Decision Making
 
+![Customer Behavior Dashboard](dashboard.png)
 ---
 
 ## 5. Results & Business Recommendations
