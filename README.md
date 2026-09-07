@@ -137,6 +137,8 @@ Business Insights
         ↓
 Recommendations
 
+---
+
 ## 4. Skills
 
 ### Data Analysis
