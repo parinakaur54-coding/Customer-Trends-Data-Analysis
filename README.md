@@ -3,6 +3,13 @@
 ### 🛠️ Tools Used
 **Python** • **Pandas** • **PostgreSQL** • **SQL** • **Power BI** • **GitHub**
 
+## 📂 Project Files
+
+- 🐍 [Python Code](Python%20Code.ipynb)
+- 🗄️ [SQL Queries](SQL%20Queries)
+- 📊 [Power BI Dashboard](Dashboard.pbix)
+- 📄 [Project Overview](Project%20Overview.pdf)
+- 📁 [Dataset](CSV%20File)
 ---
 
 ## 1. Executive Summary
