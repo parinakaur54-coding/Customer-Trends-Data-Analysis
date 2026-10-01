@@ -5,7 +5,7 @@
 
 ## 📂 Project Files
 
-- 🐍 [Python Code](Python%20Code.ipynb)
+- 🐍 [Python Code](python%20code.ipynb)
 - 🗄️ [SQL Queries](SQL%20Queries)
 - 📊 [Power BI Dashboard](Dashboard.pbix)
 - 📄 [Project Overview](Project%20Overview.pdf)
