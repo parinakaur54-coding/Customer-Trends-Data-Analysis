@@ -17,7 +17,7 @@
 2. [Business Problem](#2-business-problem)
 3. [Methodology](#3-methodology)
    - [Python — Data Cleaning & Feature Engineering](#-python--data-cleaning--feature-engineering)
-   - [SQL — Business Analysis](#-sql--business-analysis)
+   - [SQL — Business Analysis](#-sql--business--analysis)
    - [Power BI — Data Visualization](#-power-bi--data-visualization)
 5. [Business Recommendations](#5-results--business-recommendations)
 6. [Next Steps](#6-next-steps)
