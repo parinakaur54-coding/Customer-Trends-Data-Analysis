@@ -16,9 +16,8 @@
 1. [Executive Summary](#1-executive-summary)
 2. [Business Problem](#2-business-problem)
 3. [Methodology](#3-methodology)
-4. [Skills](#4-skills)
-5. [Results & Business Recommendations](#5-results--business-recommendations)
-6. [Next Steps](#6-next-steps)
+4. [Results & Business Recommendations](#5-results--business-recommendations)
+5. [Next Steps](#6-next-steps)
 
 ---
 
@@ -115,6 +114,7 @@ SQL techniques used include:
 ### 📊 Data Visualization — Power BI
 
 The cleaned and analyzed data was visualized through an interactive Power BI dashboard.
+[![Customer Behavior Dashboard](dashboard.png)](Dashboard.pbix)
 
 The dashboard includes:
 
@@ -135,48 +135,11 @@ Interactive filters allow users to explore the data by:
 - Category
 - Shipping Type
 
+
+## 4. Results & Business Recommendations
+
+## dashboard 
 [![Customer Behavior Dashboard](dashboard.png)](Dashboard.pbix)
-
-## 4. Skills
-
-### Data Analysis
-
-- Python
-- Pandas
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-
-### SQL & Database
-
-- PostgreSQL
-- SQL
-- Common Table Expressions (CTEs)
-- Subqueries
-- Window Functions
-- Data Aggregation
-- Customer Segmentation
-
-### Data Visualization
-
-- Power BI
-- Interactive Dashboards
-- Data Visualization
-- Data Storytelling
-
-### Business Analytics
-
-- Customer Behavior Analysis
-- Revenue Analysis
-- Product Analysis
-- Customer Segmentation
-- Business Problem Solving
-- Data-Driven Decision Making
-
-
----
-
-## 5. Results & Business Recommendations
 
 ### 👥 Customer Loyalty
 
@@ -232,7 +195,7 @@ Use shipping preferences as an additional customer segmentation factor and consi
 
 ---
 
-## 6. Next Steps
+## 5. Next Steps
 
 ### 🤖 Predictive Analytics
 
