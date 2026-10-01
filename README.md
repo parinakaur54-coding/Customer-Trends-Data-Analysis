@@ -16,7 +16,7 @@
 1. [Executive Summary](#1-executive-summary)
 2. [Business Problem](#2-business-problem)
 3. [Methodology](#3-methodology)
-4. [Results & Business Recommendations](#5-results--business-recommendations)
+4. [Business Recommendations](#5-results--business-recommendations)
 5. [Next Steps](#6-next-steps)
 
 ---
@@ -136,10 +136,7 @@ Interactive filters allow users to explore the data by:
 - Shipping Type
 
 
-## 4. Results & Business Recommendations
-
-## dashboard 
-[![Customer Behavior Dashboard](dashboard.png)](Dashboard.pbix)
+## 4. Business Recommendations
 
 ### 👥 Customer Loyalty
 
