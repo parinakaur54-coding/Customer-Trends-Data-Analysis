@@ -66,9 +66,6 @@ Management has noticed changes in purchasing patterns across different demograph
 ---
 
 ## 3. Methodology
----
-
-## 4. Code Highlights
 
 ### 🐍 Python — Data Cleaning & Feature Engineering
 
