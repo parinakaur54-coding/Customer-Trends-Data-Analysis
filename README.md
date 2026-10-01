@@ -11,6 +11,16 @@
 - 📄 [Project Overview](Project%20Overview.pdf)
 - 📁 [Dataset](CSV%20File)
 ---
+## 📑 Table of Contents
+
+1. [Executive Summary](#1-executive-summary)
+2. [Business Problem](#2-business-problem)
+3. [Methodology](#3-methodology)
+4. [Skills](#4-skills)
+5. [Results & Business Recommendations](#5-results--business-recommendations)
+6. [Next Steps](#6-next-steps)
+
+---
 
 ## 1. Executive Summary
 
@@ -242,13 +252,4 @@ A recommendation system could be developed to suggest products based on:
 - Purchase frequency
 - Customer preferences
 
-### 📊 Advanced Power BI Dashboard
 
-The dashboard could be expanded with:
-
-- Customer-level filtering
-- Interactive customer segmentation
-- Product performance drill-downs
-- Time-based purchasing trends
-- Additional KPIs
-- Profitability analysis
