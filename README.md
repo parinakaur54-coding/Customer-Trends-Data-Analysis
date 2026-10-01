@@ -15,10 +15,7 @@
 
 1. [Executive Summary](#1-executive-summary)
 2. [Business Problem](#2-business-problem)
-3. [Methodology](#3-methodology)
-   - [Python — Data Cleaning & Feature Engineering](#-python--data-cleaning--feature-engineering)
-   - [SQL — Business Analysis](#-sql--business--analysis)
-   - [Power BI — Data Visualization](#-power-bi--data-visualization)
+3. [Methodology - Python,SQL & POWER BI](#3-methodology)
 4. [Business Recommendations](#4-business-recommendations)
 5. [Next Steps](#5-next-steps)
 
