@@ -117,7 +117,7 @@ df['purchase_frequency_days'] = df['frequency_of_purchases'].map(
 
 ---
 
-### 🗄️ SQL — Business Analysis
+### SQL — Business Analysis
 
 PostgreSQL was used to answer business questions and identify customer purchasing patterns through SQL queries.
 
